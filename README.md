@@ -2,7 +2,7 @@
 Repo to accompany a 2 part series of blog posts about adding Postgres to your Django app and deploying to Heroku
 
 ## Related blog posts in [Agatha](https://medium.com/agatha-codes)
-[Painless Postgres + Django](https://medium.com/@eleanorstrib/painless-postgresql-django-d4f03364989)
+[Painless Postgres + Django](https://medium.com/@eleanorstrib/painless-postgresql-django-d4f03364989) - up to commit `c74a7bee1770b74361dab1c77e1486c4426968e7`
 
 ## Running the app
 This app uses Django 1.11, Python 3.5, and PostgreSQL 9.6.
