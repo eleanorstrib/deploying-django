@@ -1,6 +1,0 @@
-Django==1.11.1
-gunicorn==19.7.1
-postgres==2.2.1
-psycopg2==2.7.1
-pytz==2017.2
-whitenoise==3.3.0
